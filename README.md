@@ -24,5 +24,5 @@ This is a beginner-level project that allows users to change the background colo
 - How to change `document.body.style` in JS
 - How to update text dynamically using `innerHTML`
 
-## 📁 Folder Structure
+
 
